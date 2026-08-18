@@ -1,0 +1,5 @@
+pysqlite3
+python-dotenv
+langchain
+langchain_community
+langchain-groq
